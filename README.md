@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+预览地址 https://clementlxd.github.io/vue-task5/dist/index.html#/
+
+解决不能在线预览的方法 http://www.jianshu.com/p/28e0d931c087
+
 ## Build Setup
 
 ``` bash
