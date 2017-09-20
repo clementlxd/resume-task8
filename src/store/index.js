@@ -1,5 +1,6 @@
 import Vuex from 'vuex'
 import Vue from 'vue'
+import objectPath from "object-path"
 
 Vue.use(Vuex)
 
@@ -7,6 +8,10 @@ export default new Vuex.Store({
   state:{
 
     selected:'profile',
+    user:{
+      id:'',
+      username:''
+    },
     resume:{
       config:[
         {field:'profile',icon:'id'},
@@ -41,9 +46,26 @@ export default new Vuex.Store({
   },
 
   mutations:{
+    initState(state,payload){
+      Object.assign(state,payload)
+    },
 
     switchTab(state, payLoad){
       state.selected=payLoad
+      localStorage.setItem('state',JSON.stringify(state))
+    },
+    updateResume(state,{path,value}){
+      objectPath.set(state.resume,path,value)
+      localStorage.setItem('state',JSON.stringify(state))
+    },
+    setUser(state,payload){
+      Object.assign(state.user,payload)
+    },
+    removeUser(state){
+      state.user.id=''
+    },
+    addResumeSubfield(state,{field}){
+      let empty={}
     }
   }
 })
