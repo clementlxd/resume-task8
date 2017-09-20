@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7de6e92f-8349-4ef6-aeee-816431a78525" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/MyDialog.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/SignInForm.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/SignUpForm.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lib/getAVUser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lib/getErrorMessage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/lib/leancloud.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/static/css/app.fcd216b6c383acb58d911fd3a390eca5.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/static/css/app.fcd216b6c383acb58d911fd3a390eca5.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/static/js/app.df6a77f5a33bcea8f621.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/static/js/app.df6a77f5a33bcea8f621.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/static/js/manifest.b8d5c916152efb864076.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/static/js/manifest.b8d5c916152efb864076.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/static/js/vendor.b6760548bad6879ac73a.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/static/js/vendor.b6760548bad6879ac73a.js.map" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.vue" afterPath="$PROJECT_DIR$/src/App.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ResumeEditor.vue" afterPath="$PROJECT_DIR$/src/components/ResumeEditor.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Topbar.vue" afterPath="$PROJECT_DIR$/src/components/Topbar.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/store/index.js" afterPath="$PROJECT_DIR$/src/store/index.js" />
-    </list>
+    <list default="true" id="7de6e92f-8349-4ef6-aeee-816431a78525" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -198,7 +176,7 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="917" />
     <option name="width" value="1012" />
     <option name="height" value="1047" />
@@ -309,15 +287,15 @@
       <workItem from="1505721065942" duration="11505000" />
       <workItem from="1505791815681" duration="1656000" />
       <workItem from="1505822408566" duration="10514000" />
-      <workItem from="1505894282931" duration="11809000" />
+      <workItem from="1505894282931" duration="11938000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65009000" />
+    <option name="totallyTimeSpent" value="65138000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0953125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />

@@ -2,9 +2,7 @@
 
 > A Vue.js project
 
-预览地址 https://clementlxd.github.io/resume-task7/dist/index.html#/
-
-https://github.com/jirengu-inc/jrg-project-5/issues/9
+预览地址 https://clementlxd.github.io/resume-task8/dist/index.html#/
 
 ## Build Setup
 
